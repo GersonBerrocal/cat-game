@@ -1,0 +1,12 @@
+@use 'components/font';
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: main;
+}
+button,
+button:focus {
+  border: none;
+  outline: none;
+}
